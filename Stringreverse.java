@@ -8,6 +8,7 @@ public class Stringreverse {
 	//System.out.println(str.length());
 	StringBuffer sb = new StringBuffer(str);
 	System.out.println(sb.reverse());
+	System.out.println("Hi");	
 	
 	}
 
